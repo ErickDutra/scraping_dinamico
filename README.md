@@ -10,3 +10,4 @@
  obs:algumas buscas não funcionam por serem feitas as auterações somente na url de busca, assim sendo essas alteraçoes acabam não encontrando o site de busca, tente não incluir os "de", "da" exemplo: placa video.
  
  arquivo salvo pode ser abrta pelo excel como banco de dados possibilitando a busca mais efetiva. 
+ abertura do aqruivo no banco de dados: arquivo no formato CSV 
